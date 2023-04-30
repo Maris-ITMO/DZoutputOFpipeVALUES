@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\DZoutputOFpipeVALUES.dll"</Assembly>
+		<AddInId>B6D798D1-F238-4F40-BB87-483F6252F59C</AddInId>
+		<FullClassName>DZoutputOFpipeVALUES.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>DZ 4.2 Вывод Значений Труб</Text>
+	</AddIn>
+</RevitAddIns>
